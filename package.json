@@ -1,0 +1,22 @@
+{
+  "name": "firstmernapp",
+  "version": "1.0.0",
+  "description": "practicing mern stack",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tical29/firstMernApp.git"
+  },
+  "author": "Jaime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tical29/firstMernApp/issues"
+  },
+  "homepage": "https://github.com/tical29/firstMernApp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
