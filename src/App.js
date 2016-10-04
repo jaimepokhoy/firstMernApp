@@ -1,13 +1,8 @@
-
-
-// ReactDOM.render(<h1>Hello, world!</h1>,
-// document.getElementById('example'));
-
 var BugFilter = React.createClass({
   render: function() {
     return (
       <div>A way to filter would come here</div>
-    );
+    )
   }
 });
 
@@ -23,7 +18,7 @@ var BugAdd = React.createClass({
   render: function() {
     return (
       <div>Form to add new bugs</div>
-    );
+    )
   }
 });
 
@@ -38,7 +33,7 @@ var BugList = React.createClass({
         <hr />
         <BugAdd />
       </div>
-    );
+    )
   }
 });
 
