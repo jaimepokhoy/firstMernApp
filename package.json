@@ -18,6 +18,7 @@
   "homepage": "https://github.com/tical29/firstMernApp#readme",
   "dependencies": {
     "babel-preset-react": "^6.3.13",
+    "body-parser": "^1.14.2",
     "express": "^4.14.0"
   },
   "devDependencies": {
